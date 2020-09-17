@@ -1,0 +1,89 @@
+site_name: DoES Docs
+nav:
+  - Home: stub.md
+  - Network:
+    - Services: stub.md
+    - Netbox: stub.md
+  - Equipment:
+    - 3D Printers: 
+      - FDM: 
+        - Consumables: stub.md
+        - Ultimaker: stub.md 
+        - UpCycled: stub.md
+        - Creality: stub.md
+        - Makerbot: stub.md
+        - RepRap: stub.md
+      - SLA:
+        - Consumables: stub.md
+        - Creality: stub.md
+    - Printers:
+      - HP:
+        - LaserJet-M402dn: stub.md
+        - LaserJet-200-Color: stub.md
+        - Officejet-7510: stub.md
+      - Oki:
+        - ES5462: stub.md
+    - Heat:
+      - Strip Heater: stub.md
+      - Heatpress: stub.md
+      - Mug Heatpress: stub.md
+      - Vacuum Former: stub.md
+      - Injection Moulder: stub.md
+    - Knitting: stub.md
+    - Sewing:
+      - Elna: stub.md
+      - Bernina Bernette: stub.md
+    - Drilling:
+      - DrillPressSergeant: stub.md
+    - Milling:
+      - Arcitype: stub.md
+      - CNC Router: stub.md
+      - CNCMill: stub.md
+    - Cutters:
+      - Sophia: stub.md
+      - Roland: stub.md
+      - Monty: stub.md
+      - Harry Plotter: stub.md
+      - FermBandsaw: stub.md
+      - Scrollsaw: stub.md
+      - Startrite Bandsaw: stub.md
+      - Router Table: stub.md
+    - Electronics:
+      - Soldering: stub.md
+      - Multimeters: stub.md
+      - Oscilloscopes: stub.md
+      - Logic Analyzers: stub.md
+      - PSUs: stub.md
+      - Misc: stub.md
+    - Misc:
+      - Glues and Solvents: stub.md
+      - Belt and Disc Sander: stub.md
+      - Grinding and Polishing Wheels: stub.md
+      - Microscope: stub.md
+      - 3D Scanner: stub.md 
+      - Projectors:
+        - Hitachi CP-EX400: stub.md
+        - Dell 3400MP: stub.md
+      - PA System: stub.md
+      - Rock Tumbler: stub.md
+  - Rooms:
+    - Dinky: stub.md
+    - Room 29: stub.md
+    - Event Space: stub.md
+    - Main Room:
+      - Alcove: stub.md
+      - Nook: stub.md
+      - Kitchen: stub.md
+  - Workshops:
+    - Laser: stub.md
+    - Metal: stub.md
+    - Wood: stub.md
+  - Organization:
+    - Calendar: stub.md
+    - Bookings: stub.md
+    - Issues: stub.md
+theme:
+  name: 'mkdocs'
+    
+    
+    
