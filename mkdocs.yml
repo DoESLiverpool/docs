@@ -1,6 +1,6 @@
 site_name: DoES Docs
 nav:
-  - Home: stub.md
+  - Home: index.md
   - Network:
     - Services: stub.md
     - Netbox: stub.md
